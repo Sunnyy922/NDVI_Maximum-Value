@@ -9,6 +9,6 @@
 
 
 > **procedure**  
-1. using one file to do " .hdf to  .tif"; then exporting  .prm(projection data)  
+1. use one file to do " .hdf to  .tif"; then export  .prm(projection data)  
 2. modify the reprojection.bat  
 3. run reprojection.bat
